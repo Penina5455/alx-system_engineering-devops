@@ -1,1 +1,1 @@
-/etc/passwd and /etc/hosts
+/etc/passwd
